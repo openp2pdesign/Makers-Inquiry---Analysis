@@ -1,4 +1,4 @@
 Makers-Inquiry---Analysis
 =========================
 
-Python scripts for the analysis and visualization of the Makers' Inquiry survey
+IPython notebooks for the analysis and visualization of the Makers' Inquiry survey
