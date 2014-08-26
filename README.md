@@ -3,11 +3,11 @@ Makers-Inquiry---Analysis
 
 IPython notebooks for the analysis and visualization of the Makers' Inquiry survey.
 
-** Data
+## Data
 
 Save the results as **data/results-makers.csv**
 
-** Requisites
+## Requisites
 
 Install this from the terminal:
 
@@ -17,7 +17,7 @@ Install this from the terminal:
 4. *pip install ipython[notebook]*
 5. *pip install seaborn*
 
-** Re-Install Python on MacOSx
+## Re-Install Python on MacOSx
 
 If you are on Mac, please reinstall Python with the following commands:
 
